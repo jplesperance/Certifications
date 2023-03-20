@@ -1,0 +1,96 @@
+## Walkthroughs
+* [Proving Grounds](#proving-grounds-tj-nulls-recommendations)
+* [TryHackMe](#tryhackme-offensive-pentesting-learning-path)
+* [HackTheBox](#hackthebox-tj-nulls-recommendations)
+
+## Proving Grounds (TJ Null's Recommendations)
+### Warm Up
+* [ ] [Pebbles](/walkthroughs/pg/pebbles/)
+* [ ] [Helpdesk](/walkthroughs/pg/helpdesk)
+* [ ] [Internal](/walkthroughs/pg/internal)
+* [ ] [Twiggy](/walkthroughs/pg/twiggy/)
+* [ ] [Metallus](/walkthroughs/pg/metallus/)
+* [ ] [Kevin](/walkthroughs/pg/kevin/)
+* [ ] [Algernon](/walkthroughs/pg/algernon/)
+* [ ] [Wombo](/walkthroughs/pg/wombo/)
+* [ ] [Bratarina](/walkthroughs/pg/bratarina/)
+* [ ] [Interface](/walkthroughs/pg/interface/)
+* [ ] [Hawat](/walkthroughs/pg/hawat/)
+* [ ] [ClamAV](/walkthroughs/pg/clamav/)
+
+### Get to Work
+* [ ] [Slort](/walkthroughs/pg/slort/)
+* [ ] [Nibbles](/walkthroughs/pg/nibbles/)
+* [ ] [PayDay](/walkthroughs/pg/payday/)
+* [ ] [Zino](/walkthroughs/pg/zino/)
+* [ ] [AuthBy](/walkthroughs/pg/authby/)
+* [ ] [Billyboss](/walkthroughs/pg/billyboss)
+* [ ] [Jacko](/walkthroughs/pg/jacko/)
+* [ ] [Medjed](/walkthroughspg/medjed/)
+* [ ] [Nickel](/walkthroughs/pg/nickel/)
+* [ ] [UT99](/walkthroughs/pg/ut99/)
+* [ ] [Banzai](/walkthroughs/pg/banzai/)
+* [ ] [Dibble](/walkthroughs/pg/dibble)
+* [ ] [Fail](/walkthroughs/pg/fail/)
+* [ ] [Hunit](/walkthroughs/pg/hunit/)
+* [ ] [Hetemit](/walkthroughs/pg/hetemit/)
+
+### Try Harder
+* [ ] [Meathead](/walkthroughs/pg/meathead/)
+* [ ] [Shifty](/walkthroughs/pg/shifty/)
+* [ ] [Vector](/walkthroughs/pg/vector/)
+* [ ] [Clyde](/walkthroughs/pg/clyde/)
+
+## TryHackMe (Offensive Pentesting Learning Path)
+### Getting Started
+* [ ] [Vulnversity](/thm/vulnversity/)
+* [ ] [Blue](/thm/blue/)
+* [ ] [Kenobi](/thm/kenobi/)
+
+### Advanced Exploitation
+* [ ] [Steel Mountain](/walkthroughs/thm/steel-mountain/)
+* [ ] [Alfred](/walkthroughs/thm/alfred/)
+* [ ] [HackPark](/walkthroughs/thm/hackpark/)
+* [ ] [Game Zone](/walkthroughs/thm/game-zone/)
+* [ ] [Skynet](/walkthroughs/thm/skynet/)
+* [ ] [Daily Bugle](/walkthroughs/thm/daily-bugle/)
+* [ ] [Overpass 2 - Hacked](/walkthroughs/thm/overpass2hacked/)
+* [ ] [Relevant](/walkthroughs//thm/relevant/)
+* [ ] [Internal](/walkthroughs/thm/internal/)
+
+### Buffer Overflow Exploitation
+* [ ] [Buffer Overflow Prep](/walkthroughs/thm/buffer-overflow-prep/)
+  * [ ] [Task 1](/walkthroughs/thm/buffer-overflow-prep/task-1/) 
+  * [ ] [Task 2](/walkthroughs/thm/buffer-overflow-prep/task-2/) 
+  * [ ] [Task 3](/walkthroughs/thm/buffer-overflow-prep/task-3/) 
+  * [ ] [Task 4](/walkthroughs/thm/buffer-overflow-prep/task-4/) 
+  * [ ] [Task 5](/walkthroughs/thm/buffer-overflow-prep/task-5/) 
+  * [ ] [Task 6](/walkthroughs/thm/buffer-overflow-prep/task-6/) 
+  * [ ] [Task 7](/walkthroughs/thm/buffer-overflow-prep/task-7/) 
+  * [ ] [Task 8](/walkthroughs/thm/buffer-overflow-prep/task-8/) 
+  * [ ] [Task 9](/walkthroughs/thm/buffer-overflow-prep/task-9/) 
+  * [ ] [Task 10](/walkthroughs/thm/buffer-overflow-prep/task-10/) 
+* [ ] [Brainstorm](/walkthroughs/thm/)
+* [ ] [Gatekeeper](/walkthroughs/thm/)
+* [ ] [Brainpan 1](/walkthroughs/thm/)
+
+### Active Directory
+* [ ] [Active Directory Basics](/walkthroughs/thm/)
+* [ ] [Attacking Kerberos](/walkthroughs/thm/)
+* [ ] [Attacktive Directory](/walkthroughs/thm/)
+* [ ] [Post-Exploitation Basics](/walkthroughs/thm/)
+* [ ] [Throwback](/walkthrough/thm/)
+* [ ] [Holo](/walkthroughs/thm/)
+* [ ] [Wreath](/walkthroughs/thm/)
+
+### Extra Credit
+* [ ] [Hacking with PowerShell](/walkthroughs/thm/)
+* [ ] [Corp](/walkthroughs/thm/)
+* [ ] [Mr. Robot CTF](/walkthroughs/thm/mr-robot-ctf/)
+* [ ] [Retro](/walkthroughs/thm/)
+
+## HackTheBox (TJ Null's Recommendations)
+* [ ] [Knife](/walkthroughs/htb/)
+* [ ] [Lame](walkthroughs/htb/)
+* [ ] [Legacy](/walkthroughs/htb/)
+* [ ] [Jeeves](/walkthroughs/htb/)
