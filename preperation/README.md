@@ -8,9 +8,9 @@
 * [ ] OSCP (Offensive Security Certified Professional) (June 2023)
 
 # Progress
-* [OSCP](/preperation/OffSec.md) - 67%
-  * Course - 90%
-  * Exercises - 79%
+* [OSCP](/preperation/OffSec.md) - 76%
+  * Course - 99%
+  * Exercises - 89%
   * Labs - 17/75
   * Proving Grounds - 1/31
 * [PNTP](/preperation/TCM.md) - 40%
