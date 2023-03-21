@@ -8,18 +8,18 @@
 * [ ] OSCP (Offensive Security Certified Professional) (June 2023)
 
 # Progress
-* [OSCP](/preperation/OffSec.md) - 76%
+* [OSCP](/preperation/OffSec.md) - 60%
   * Course - 99%
   * Exercises - 89%
-  * Labs - 17/75
-  * Proving Grounds - 1/31
+  * Labs - 47%
+  * Proving Grounds - 3%
 * [PNTP](/preperation/TCM.md) - 40%
   * Course - 44%
   * Capstone - 5/10
-* [CPTS](/preperation/HTB.md) - 34%
-  * Course - 34%
-  * HTB Macines - 7/50
-  * Dante - 4/27
+* [CPTS](/preperation/HTB.md) - 24%
+  * Course - 36%
+  * HTB Macines - 15/50 - 30%
+  * Dante - 4/27 - 15%
 * [TryHackMe](/preperation/THM.md) - 40%
   * Offensive Pentetration Testing Path - 39%
   * Throwback - 0%

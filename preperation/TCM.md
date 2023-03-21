@@ -19,13 +19,13 @@
   * [X] Devel
   * [X] Jerry
   * [X] Nibbles
-  * [ ] Optimum
+  * [X] Optimum
   * [ ] Bashed
   * [ ] Grandpa
-  * [ ] Netmon
+  * [X] Netmon
 * [ ] Intro to Exploit Development (Buffer Overflow)
-* [ ] Active Directory Overview
-* [ ] Active Directory Lab Build
+* [X] Active Directory Overview
+* [-] Active Directory Lab Build
 * [ ] Attacking AD: Initial Attack Vectors
 * [ ] Attacking AD: Post-Compromise Enumeration
 * [ ] Attacking AD: Post-Compromise Attacks

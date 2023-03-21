@@ -7,9 +7,9 @@
 * [X] Information Gathering - Web Edition
 * [X] Vulnerability Assessment
 * [X] File Transfers
-* [-] Shells & Payloads
+* [X] Shells & Payloads
 * [X] Using the Metasploit Framework
-* [ ] Password Attacks
+* [-] Password Attacks
 * [ ] Attacking Common Services
 * [ ] Pivoting, Tunneling and Port Forwarding
 * [ ] AD Enumeration and Attacks
@@ -85,12 +85,12 @@
 * [ ] Seal
 * [ ] Previse 
 * [ ] Forge
-* [ ] Horizontall
+* [X] Horizontall
 * [ ] Shibboleth
 * [ ] Writer
 * [ ] Precise
-* [ ] Pandora
-* [ ] Meta
+* [X] Pandora
+* [X] Meta
 * [ ] Paper
 * [ ] Talkative
 * [ ] Seventeen
@@ -99,14 +99,14 @@
 * [X] legacy
 * [X] Blue
 * [X] Devel
-* [ ] Optimum
+* [X] Optimum
 * [ ] Bastard
 * [X] granny
 * [ ] Arctic
 * [X] grandpa
 * [ ] silo
 * [ ] bounty
-* [ ] jerry
+* [X] jerry
 * [ ] conceal
 * [ ] chatterbox
 * [ ] Forest
@@ -133,8 +133,8 @@
 ### Updated 10/22
 * [ ] Backdoor[Linux]
 * [ ] Search[Windows]
-* [ ] Pandora[Linux]
-* [ ] Meta[Linux]
+* [X] Pandora[Linux]
+* [X] Meta[Linux]
 * [ ] Paper[Linux]
 * [ ] Acute[Windows]
 * [ ] Timelapse[Windows]
