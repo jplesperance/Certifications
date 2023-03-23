@@ -20,7 +20,7 @@
   * [X] Jerry
   * [X] Nibbles
   * [X] Optimum
-  * [ ] Bashed
+  * [X] Bashed
   * [ ] Grandpa
   * [X] Netmon
 * [ ] Intro to Exploit Development (Buffer Overflow)

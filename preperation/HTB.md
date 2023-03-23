@@ -40,7 +40,7 @@
 * [X] Lame
 * [ ] Brainfuck
 * [ ] shocker
-* [ ] bashed
+* [X] bashed
 * [X] nibbles
 * [ ] beep
 * [ ] cronos
@@ -103,7 +103,7 @@
 * [ ] Bastard
 * [X] granny
 * [ ] Arctic
-* [X] grandpa
+* [-] grandpa
 * [ ] silo
 * [ ] bounty
 * [X] jerry
