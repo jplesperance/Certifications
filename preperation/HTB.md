@@ -9,17 +9,17 @@
 * [X] File Transfers
 * [X] Shells & Payloads
 * [X] Using the Metasploit Framework
-* [-] Password Attacks
+* [ ] Password Attacks
 * [ ] Attacking Common Services
 * [ ] Pivoting, Tunneling and Port Forwarding
 * [ ] AD Enumeration and Attacks
-* [-] Using Web Proxies
-* [-] Attacking Web Applications with Ffuf
-* [-] Login Brute Forcing
+* [ ] Using Web Proxies
+* [ ] Attacking Web Applications with Ffuf
+* [ ] Login Brute Forcing
 * [ ] SQLi Fundamentals
 * [ ] SQLMap Essentials
 * [ ] Cross-site Scripting
-* [-] File Inclusion
+* [ ] File Inclusion
 * [ ] File Upload Attacks
 * [ ] Command Injection
 * [ ] Web Attacks
@@ -33,7 +33,7 @@
 * [ ] HTB Certified Penetration Testing Specialist
 
 ## Prolabs
-* [-] Dante - 4/27 Flags
+* [ ] Dante - 4/27 Flags
 
 ## Machines
 ### Linux
@@ -104,6 +104,7 @@
 * [X] granny
 * [ ] Arctic
 * [X] grandpa
+* [ ] grandpa
 * [ ] silo
 * [ ] bounty
 * [X] jerry
