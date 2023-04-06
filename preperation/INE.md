@@ -1,4 +1,27 @@
 # eLearnSecurity - Certified Professional Penetration Tester V2
 ## Course
 - [ ] Penetration Testing: System Security
-  - [ ] 
+  - [ ] Architecture Fundamentals
+  - [ ] Assembler Debuggers and Tool Arsenal
+  - [ ] Buffer Overflows
+  - [ ] Shellcoding
+  - [ ] Cryptography and Password Cracking
+  - [ ] Malware
+- [ ] Penetration Testing: Network Security
+  - [ ] Infomation Gathering
+  - [ ] Scanning
+  - [ ] Enumeration
+  - [ ] Sniffing & MitM Attacks
+  - [ ] Exploitation
+  - [ ] Post Exploitation
+  - [ ] Anonymity
+  - [ ] Social Engineering
+- [ ] PowerShell for Pentesters
+  - [ ] Introduction
+  - [ ] PowerShell Fundamentals
+  - [ ] Offensive Powershell 
+- [ ] Penetration Testing: Linux Exploitation
+  - [ ] Introduction
+  - [ ] Information Gathering
+  - [ ] Exploitation over the Network
+  - [ ] Post Exploitation
