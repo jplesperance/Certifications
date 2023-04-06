@@ -1,25 +1,25 @@
 # eLearnSecurity - Certified Professional Penetration Tester V2
 ## Course
-- [ ] Penetration Testing: System Security
-  - [ ] Architecture Fundamentals
-  - [ ] Assembler Debuggers and Tool Arsenal
-  - [ ] Buffer Overflows
-  - [ ] Shellcoding
-  - [ ] Cryptography and Password Cracking
-  - [ ] Malware
-- [ ] Penetration Testing: Network Security
-  - [ ] Infomation Gathering
-  - [ ] Scanning
-  - [ ] Enumeration
-  - [ ] Sniffing & MitM Attacks
-  - [ ] Exploitation
-  - [ ] Post Exploitation
-  - [ ] Anonymity
-  - [ ] Social Engineering
-- [ ] PowerShell for Pentesters
-  - [ ] Introduction
-  - [ ] PowerShell Fundamentals
-  - [ ] Offensive Powershell 
+- [ ] Penetration Testing: System Security - 1/42
+  - [ ] Architecture Fundamentals - 0/6
+  - [ ] Assembler Debuggers and Tool Arsenal - 0/7
+  - [ ] Buffer Overflows - 0/9
+  - [ ] Shellcoding - 0/7
+  - [ ] Cryptography and Password Cracking - 1/9
+  - [ ] Malware - 0/4
+- [ ] Penetration Testing: Network Security - 26/123
+  - [ ] Infomation Gathering - 12/16
+  - [ ] Scanning - 10/17
+  - [ ] Enumeration - 4/9
+  - [ ] Sniffing & MitM Attacks - 0/15
+  - [ ] Exploitation - 0/25
+  - [ ] Post Exploitation - 0/31
+  - [ ] Anonymity - 0/3
+  - [ ] Social Engineering 0/7
+- [ ] PowerShell for Pentesters - 0/20
+  - [ ] Introduction - 0/2
+  - [ ] PowerShell Fundamentals - 0/5
+  - [ ] Offensive Powershell - 0/13
 - [ ] Penetration Testing: Linux Exploitation
   - [ ] Introduction
   - [ ] Information Gathering
@@ -39,3 +39,15 @@
   - [X] Traffic Analysis
   - [X] Attacking Wifi Networks
   - [X] Wifi as Attack Vectors  
+- [ ] Penetration Testing: Metasploit & Ruby
+  - [ ] Installation and Fundamentals
+  - [ ] Control Structures
+  - [ ] Methods, Variables and Scope
+  - [ ] Classes, Modules and Exceptions
+  - [ ] Pentesters Prerequisites
+  - [ ] Input Output
+  - [ ] Network and OS Interaction
+  - [ ] The Web
+  - [ ] Exploitation with Ruby
+  - [ ] Metasploit
+- [ ] eCPPTv2 Exam Preparation  
