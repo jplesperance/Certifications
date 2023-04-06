@@ -25,3 +25,17 @@
   - [ ] Information Gathering
   - [ ] Exploitation over the Network
   - [ ] Post Exploitation
+- [ ] Penetration Testing: Web App Security
+  - [ ] Introduction
+  - [ ] Information Gathering
+  - [ ] Cross Site Scripting
+  - [ ] SQL Injections
+  - [ ] Other Common Web Attacks 
+- [X] Penetration Testing: Wifi Security
+  - [X] Prerequisites
+  - [X] Environment Setup
+  - [X] Wireless Standards and Networks
+  - [X] Discover Wifi Networks
+  - [X] Traffic Analysis
+  - [X] Attacking Wifi Networks
+  - [X] Wifi as Attack Vectors  
