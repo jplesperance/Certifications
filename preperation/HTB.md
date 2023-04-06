@@ -103,7 +103,7 @@
 * [ ] Bastard
 * [X] granny
 * [ ] Arctic
-* [-] grandpa
+* [X] grandpa
 * [ ] silo
 * [ ] bounty
 * [X] jerry

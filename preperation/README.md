@@ -15,7 +15,7 @@
   * Proving Grounds - 3%
 * [PNTP](/preperation/TCM.md) - 40%
   * Course - 44%
-  * Capstone - 5/10
+  * Capstone - 10/10
 * [CPTS](/preperation/HTB.md) - 24%
   * Course - 36%
   * HTB Macines - 15/50 - 30%

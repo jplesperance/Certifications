@@ -12,7 +12,7 @@
 * [X] Scanning and Enumeration
 * [X] Vulnerability Scanning
 * [X] Exploitation Basics
-* [-] Capstone
+* [X] Capstone
   * [X] Legacy
   * [X] Lame
   * [X] Blue
@@ -21,7 +21,7 @@
   * [X] Nibbles
   * [X] Optimum
   * [X] Bashed
-  * [ ] Grandpa
+  * [X] Grandpa
   * [X] Netmon
 * [ ] Intro to Exploit Development (Buffer Overflow)
 * [X] Active Directory Overview

