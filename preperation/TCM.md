@@ -23,9 +23,9 @@
   * [X] Bashed
   * [X] Grandpa
   * [X] Netmon
-* [ ] Intro to Exploit Development (Buffer Overflow)
-* [X] Active Directory Overview
-* [-] Active Directory Lab Build
+* [X] Intro to Exploit Development (Buffer Overflow)
+* [X] Active Directory Overview0
+* [X] Active Directory Lab Build
 * [ ] Attacking AD: Initial Attack Vectors
 * [ ] Attacking AD: Post-Compromise Enumeration
 * [ ] Attacking AD: Post-Compromise Attacks

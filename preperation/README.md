@@ -1,7 +1,6 @@
 # Preperation
 
 * [X] eJPT (eLearnSecurity Junior Penetration Tester)
-* [ ] eCPPT (eLearnSecurity Certified Professional Penetration Tester)  (????)
 * [ ] PNPT (TCM Professional Network Penetration Tester) (May 2023)
 * [ ] CPTS (HTB Certified Penetration Testing Specialist) (April 2023)
 * [X] OSWP (Offensive Security Wireless Professional) 
@@ -14,7 +13,7 @@
   * Labs - 47%
   * Proving Grounds - 3%
 * [PNTP](/preperation/TCM.md) - 40%
-  * Course - 44%
+  * Course - 52%
   * Capstone - 10/10
 * [CPTS](/preperation/HTB.md) - 24%
   * Course - 36%
@@ -25,9 +24,6 @@
   * Throwback - 0%
   * Holo - 0%
   * Wreath - 45%
-* eCPPT - 24%
-  * Course - 
-  * Labs
 
 
 
