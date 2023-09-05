@@ -73,11 +73,11 @@
 * [ ] Capstone Challenge
 
 ## OSINT
-* [ ] Introduction
-* [ ] OSINT Overview
-* [ ] Note Keeping
-* [ ] Sock Puppets
-* [ ] Search Engine OSINT
+* [X] Introduction
+* [X] OSINT Overview
+* [X] Note Keeping
+* [X] Sock Puppets
+* [X] Search Engine OSINT
 * [ ] Image OSINT
 * [ ] Email OSINT
 * [ ] Password OSINT
@@ -95,6 +95,16 @@
 * [ ] OSINT Report Writing
 
 ## External Pentest Playbook
+* [X] Introduction
+* [X] Before We Start
+* [X] Kicking Off
+* [X] Information Gathering / OSINT
+* [X] Attacking Login Portals
+* [X] Escalating Access
+* [X] Report Writing
+* [ ] Common Pentest Findings
+* [ ] Wrapping Up
+* [ ] Conclusion
 
 ## Certification
 * [ ] Professional Network Penetration Tester
