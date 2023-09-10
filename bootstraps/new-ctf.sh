@@ -3,9 +3,9 @@
 if [ -z $2  ]; then
   echo "new-ctf <ctf_name> <provider>"
 else
-  mkdir $2/$1
-  cd $2/$1
-  mkdir exploits loot scans screenshots tools
+  mkdir /home/jesse/machines/$2/$1
+  cd /home/jesse/machines/$2/$1
+  mkdir exploits loot scans screenshots
   ln -s /opt /home/jesse/machines/$2/$1/tools
   sudo save-screenshots-here ./screenshots 
   wget https://raw.githubusercontent.com/jplesperance/oscp/main/bootstraps/fuzzer.py -O exploits/fuzzer.py
