@@ -14,7 +14,7 @@ else
   wget https://raw.githubusercontent.com/jplesperance/oscp/main/guides/buffer-overflow-guide.md -O exploits/bof-worksheet.md
   wget https://raw.githubusercontent.com/jplesperance/oscp/main/report/README.md
   wget https://raw.githubusercontent.com/diego-treitos/linux-smart-enumeration/master/lse.sh -O exploits/lse.sh
-  wget https://raw.githubusercontent.com/jplesperance/main/bootstraps/BOX.ctb -O $1.ctb
+  wget https://raw.githubusercontent.com/jplesperance/oscp/main/bootstraps/BOX.ctb -O $1.ctb
   ls -al
 fi
 cd /home/jesse/machines/$2/$1
