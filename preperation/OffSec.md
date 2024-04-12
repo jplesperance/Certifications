@@ -1,39 +1,39 @@
 # Evolve
 ## Course Schedule
 ### Pre-Bootcamp
-* Module 4 - Linux - Offsec 1
-* Module 5 - Networking 
-* Module 6 - Python
-* Module 7 - Kali Linux - Offsec 2
-* Module 8 - Command Line Fun - Offsec 3
-* Module 9 - Practical Tools - Offsec 4
-* Module 10 - Bash Scripting - Offsec 5
-* Module 11 - Intro Penetration Testing
-* Module 12 - Passive Information - Offsec 6
+* [X] Module 4 - Linux - Offsec 1
+* [X] Module 5 - Networking 
+* [X] Module 6 - Python
+* [X] Module 7 - Kali Linux - Offsec 2
+* [X] Module 8 - Command Line Fun - Offsec 3
+* [ ] Module 9 - Practical Tools - Offsec 4
+* [X] Module 10 - Bash Scripting - Offsec 5
+* [X] Module 11 - Intro Penetration Testing
+* [X] Module 12 - Passive Information - Offsec 6
 ### Week 1
 #### Day 1  4/9
 * Class
-  * Introduction
-  * Module 13 - Network Services
+  * [X] Introduction
+  * [X] Module 13 - Network Services
 * Homework
-  * Module 13 - Fingerprinter
+  * [X] Module 13 - Fingerprinter
 #### Day 2  4/10
 * Class
-  * Module 13 - Cliente
-  * Module 14 - Drama
+  * [X] Module 13 - Cliente
+  * [X] Module 14 - Drama
 * Homework
-  * Module 14 - Vulnerability Scanning with Nessus
+  * [X] Module 14 - Vulnerability Scanning with Nessus
 #### Day 3  4/11
 * Class
-  * Module 14 - Friends
+  * [X] Module 14 - Friends
 * Homework
-  * Module 14 - Challenge: Behind the door
+  * [X] Module 14 - Challenge: Behind the door
 * Offsec Course
-  * Intro to Cyber (3.1.3, 3.2.4, 3.3.4, 3.4.9, 3.5.2, 3.6.3)
-  * Effective Learning (4.1.3, 4.2.3, 4.3.4, 4.4.4, 4.7.6)
-  * Report Writing (5.1.6, 5.2.7)
-  * Info Gathering (6.2, 6.3)
-  * Vuln SCanning (7.1, 7.2, 7.3)
+  * [X] Intro to Cyber (3.1.3, 3.2.4, 3.3.4, 3.4.9, 3.5.2, 3.6.3)
+  * [ ] Effective Learning (4.1.3, 4.2.3, 4.3.4, 4.4.4, 4.7.6)
+  * [ ] Report Writing (5.1.6, 5.2.7)
+  * [ ] Info Gathering (6.2, 6.3)
+  * [ ] Vuln SCanning (7.1, 7.2, 7.3)
 ### Week 2
 #### Pre-work
 * OS Intro to Web App Attacks (8.1, 8.2, 8.3, 8.4)
