@@ -30,36 +30,36 @@
   * [X] Module 14 - Challenge: Behind the door
 * Offsec Course
   * [X] Intro to Cyber (3.1.3, 3.2.4, 3.3.4, 3.4.9, 3.5.2, 3.6.3)
-  * [ ] Effective Learning (4.1.3, 4.2.3, 4.3.4, 4.4.4, 4.7.6)
-  * [ ] Report Writing (5.1.6, 5.2.7)
-  * [ ] Info Gathering (6.2, 6.3)
+  * [X] Effective Learning (4.1.3, 4.2.3, 4.3.4, 4.4.4, 4.7.6)
+  * [X] Report Writing (5.1.6, 5.2.7)
+  * [X] Info Gathering (6.2, 6.3)
   * [ ] Vuln SCanning (7.1, 7.2, 7.3)
 ### Week 2
 #### Pre-work
-* OS Intro to Web App Attacks (8.1, 8.2, 8.3, 8.4)
+* [ ] OS Intro to Web App Attacks (8.1, 8.2, 8.3, 8.4)
 #### Day 4
 * Class
-  * OS Intro to Web App Attacks (8.2.4, 8.3.3, 8.4.5)
+  * [ ] OS Intro to Web App Attacks (8.2.4, 8.3.3, 8.4.5)
 * Homework
-  * Module 15 - Very Bad, Bye Bye Bye
-  * OS Common Web App Attacks (9.1, 9.2)
+  * [ ] Module 15 - Very Bad, Bye Bye Bye
+  * [ ] OS Common Web App Attacks (9.1, 9.2)
 #### Day 5
 * Class
-  * Module 15 - Evolve Swag Shop
-  * OS Common Web App Attacks (9.2.3, 9.3, 9.4)
+  * [ ] Module 15 - Evolve Swag Shop
+  * [ ] OS Common Web App Attacks (9.2.3, 9.3, 9.4)
 * Homework
-  * OS SQL Injection Attacks (10.1, 10.2, 10.3)
+  * [ ] OS SQL Injection Attacks (10.1, 10.2, 10.3)
 #### Pre-work
-* OS SQL Injection Attacks (10.3.2)
+* [ ] OS SQL Injection Attacks (10.3.2)
 #### Day 6
 * Class
-  * Module 15 - Vaccine
-  * OS Challenge: Medtech: Web02
+  * [ ] Module 15 - Vaccine
+  * [ ] OS Challenge: Medtech: Web02
 * Homework
-  * Module 15 - Challenge: Pip Boy
-  * OS Locating Public Exploits (12.1, 12.2, 12.3, 12.4)
-  * OS Password Attacks (15.1, 15.2)
-  * OS Windows PE
+  * [ ] Module 15 - Challenge: Pip Boy
+  * [ ] OS Locating Public Exploits (12.1, 12.2, 12.3, 12.4)
+  * [ ] OS Password Attacks (15.1, 15.2)
+  * [ ] OS Windows PE
 ### Week 3
 #### Day 7
 * Class
