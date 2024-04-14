@@ -33,7 +33,7 @@
   * [X] Effective Learning (4.1.3, 4.2.3, 4.3.4, 4.4.4, 4.7.6)
   * [X] Report Writing (5.1.6, 5.2.7)
   * [X] Info Gathering (6.2, 6.3)
-  * [ ] Vuln SCanning (7.1, 7.2, 7.3)
+  * [X] Vuln SCanning (7.1, 7.2, 7.3)
 ### Week 2
 #### Pre-work
 * [ ] OS Intro to Web App Attacks (8.1, 8.2, 8.3, 8.4)
