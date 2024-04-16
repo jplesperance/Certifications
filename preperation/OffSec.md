@@ -36,10 +36,10 @@
   * [X] Vuln SCanning (7.1, 7.2, 7.3)
 ### Week 2
 #### Pre-work
-* [ ] OS Intro to Web App Attacks (8.1, 8.2, 8.3, 8.4)
+* [X] OS Intro to Web App Attacks (8.1, 8.2, 8.3, 8.4)
 #### Day 4
 * Class
-  * [ ] OS Intro to Web App Attacks (8.2.4, 8.3.3, 8.4.5)
+  * [X] OS Intro to Web App Attacks (8.2.4, 8.3.3, 8.4.5)
 * Homework
   * [ ] Module 15 - Very Bad, Bye Bye Bye
   * [ ] OS Common Web App Attacks (9.1, 9.2)
