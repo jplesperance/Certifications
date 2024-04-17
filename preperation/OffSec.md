@@ -41,7 +41,8 @@
 * Class
   * [X] OS Intro to Web App Attacks (8.2.4, 8.3.3, 8.4.5)
 * Homework
-  * [ ] Module 15 - Very Bad, Bye Bye Bye
+  * [X] Module 15 - Very Bad
+  * [ ] Module 15 - Bye Bye Bye
   * [ ] OS Common Web App Attacks (9.1, 9.2)
 #### Day 5
 * Class
