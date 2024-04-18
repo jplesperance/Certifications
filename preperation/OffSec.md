@@ -43,11 +43,11 @@
 * Homework
   * [X] Module 15 - Very Bad
   * [ ] Module 15 - Bye Bye Bye
-  * [ ] OS Common Web App Attacks (9.1, 9.2)
+  * [X] OS Common Web App Attacks (9.1, 9.2)
 #### Day 5
 * Class
   * [ ] Module 15 - Evolve Swag Shop
-  * [ ] OS Common Web App Attacks (9.2.3, 9.3, 9.4)
+  * [X] OS Common Web App Attacks (9.2.3, 9.3, 9.4)
 * Homework
   * [ ] OS SQL Injection Attacks (10.1, 10.2, 10.3)
 #### Pre-work
