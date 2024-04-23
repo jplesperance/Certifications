@@ -49,16 +49,16 @@
   * [ ] Module 15 - Evolve Swag Shop
   * [X] OS Common Web App Attacks (9.2.3, 9.3, 9.4)
 * Homework
-  * [ ] OS SQL Injection Attacks (10.1, 10.2, 10.3)
+  * [X] OS SQL Injection Attacks (10.1, 10.2, 10.3)
 #### Pre-work
-* [ ] OS SQL Injection Attacks (10.3.2)
+* [X] OS SQL Injection Attacks (10.3.2)
 #### Day 6
 * Class
   * [ ] Module 15 - Vaccine
-  * [ ] OS Challenge: Medtech: Web02
+  * [X] OS Challenge: Medtech: Web02
 * Homework
   * [ ] Module 15 - Challenge: Pip Boy
-  * [ ] OS Locating Public Exploits (12.1, 12.2, 12.3, 12.4)
+  * [X] OS Locating Public Exploits (12.1, 12.2, 12.3, 12.4)
   * [ ] OS Password Attacks (15.1, 15.2)
   * [ ] OS Windows PE
 ### Week 3
