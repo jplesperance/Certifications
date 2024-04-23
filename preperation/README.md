@@ -1,23 +1,23 @@
 # Preperation
 
 * [X] eJPT (eLearnSecurity Junior Penetration Tester)
-* [ ] PNPT (TCM Professional Network Penetration Tester) (May 2023)
-* [ ] CPTS (HTB Certified Penetration Testing Specialist) (April 2023)
+* [ ] JNPT (TCM Junior Network Penetration Tester)
+* [ ] PNPT (TCM Professional Network Penetration Tester)
+* [ ] CPTS (HTB Certified Penetration Testing Specialist)
 * [X] OSWP (Offensive Security Wireless Professional) 
-* [ ] OSCP (Offensive Security Certified Professional) (June 2023)
+* [ ] OSCP (Offensive Security Certified Professional)
 
 # Progress
 * [OSCP](/preperation/OffSec.md) - 63%
-  * Course - 75.3%
-  * Exercises - 71.7%
-  * Labs - 23/57
-    * OSCP A - 7/7
-    * OSCP B - 5/7
+  * Course - 49.4%
+  * Exercises - 49.9%
+  * Labs - 1/57
+    * OSCP A - 0/7
+    * OSCP B - 0/7
     * OSCP C - 0/7
-    * Medtech - 3/10
+    * Medtech - 1/10
     * Relia - 0/0
     * Skylark - 0/0
-    * Legacy - 14/14
   * Proving Grounds - 1/20
 * [PNTP](/preperation/TCM.md) - 32% | 35.3%
   * PEH Course - 52%
