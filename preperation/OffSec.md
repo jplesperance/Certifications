@@ -64,27 +64,27 @@
 ### Week 3
 #### Day 7
 * Class
-  * OS Password Attacks (15.2, 15.3)
-  * OS Windows PE (16.2, 16.3)
+  * [ ] OS Password Attacks (15.2, 15.3)
+  * [ ] OS Windows PE (16.2, 16.3)
 * Homework
-  * Module 16 - Hakuna Matata
-  * OS Linux PE (17.1, 17.2)
+  * [ ] Module 16 - Hakuna Matata
+  * [ ] OS Linux PE (17.1, 17.2)
 #### Day 8
 * Class
-  * OS Linux PE (17.2, 17.3)
+  * [ ] OS Linux PE (17.2, 17.3)
 * Homework
-  * Evolve 16 - I am groot
-  * OS Port Redirection (18.2)
+  * [ ] Evolve 16 - I am groot
+  * [ ] OS Port Redirection (18.2)
 #### Day 9
 * Class
-  * OS Port Redirection (18.3, 18.4)
-  * Module 16 - The Heist
+  * [ ] OS Port Redirection (18.3, 18.4)
+  * [ ] Module 16 - The Heist
 * Homework
-  * OS Metasploit Framework (20.1-4)
-  * Module 16 - Ever Given
-  * Module 16 - Challenge: Raven
-  * Module 17 - Exploitation with Metasploit
-  * Module 17 - Metapaul
+  * [ ] OS Metasploit Framework (20.1-4)
+  * [ ] Module 16 - Ever Given
+  * [ ] Module 16 - Challenge: Raven
+  * [ ] Module 17 - Exploitation with Metasploit
+  * [ ] Module 17 - Metapaul
 ### Week 4
 #### Pre-work
 * OS AD Intro and Enum (21.1, 21.2
