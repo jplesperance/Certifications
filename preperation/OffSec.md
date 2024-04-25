@@ -59,12 +59,12 @@
 * Homework
   * [ ] Module 15 - Challenge: Pip Boy
   * [X] OS Locating Public Exploits (12.1, 12.2, 12.3, 12.4)
-  * [ ] OS Password Attacks (15.1, 15.2)
-  * [ ] OS Windows PE
+  * [X] OS Password Attacks (15.1, 15.2)
+  * [X] OS Windows PE
 ### Week 3
 #### Day 7
 * Class
-  * [ ] OS Password Attacks (15.2, 15.3)
+  * [X] OS Password Attacks (15.2, 15.3)
   * [ ] OS Windows PE (16.2, 16.3)
 * Homework
   * [ ] Module 16 - Hakuna Matata
