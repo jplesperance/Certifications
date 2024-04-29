@@ -65,13 +65,13 @@
 #### Day 7
 * Class
   * [X] OS Password Attacks (15.2, 15.3)
-  * [ ] OS Windows PE (16.2, 16.3)
+  * [X] OS Windows PE (16.2, 16.3)
 * Homework
   * [ ] Module 16 - Hakuna Matata
-  * [ ] OS Linux PE (17.1, 17.2)
+  * [X] OS Linux PE (17.1, 17.2)
 #### Day 8
 * Class
-  * [ ] OS Linux PE (17.2, 17.3)
+  * [X] OS Linux PE (17.2, 17.3)
 * Homework
   * [ ] Evolve 16 - I am groot
   * [ ] OS Port Redirection (18.2)
