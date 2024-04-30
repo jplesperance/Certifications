@@ -8,7 +8,7 @@
 * [ ] OSCP (Offensive Security Certified Professional)
 
 # Progress
-* [OSCP](/preperation/OffSec.md) - 42.1%
+* [OSCP](/preperation/OffSec.md) - 42.7%
   * Course - 61.3%
   * Exercises - 63.3%
   * Labs - 1/57 - 3.5%
