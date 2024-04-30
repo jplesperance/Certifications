@@ -8,14 +8,14 @@
 * [ ] OSCP (Offensive Security Certified Professional)
 
 # Progress
-* [OSCP](/preperation/OffSec.md) - 37%
-  * Course - 59.4%
-  * Exercises - 61.2%
-  * Labs - 1/57 - 1.8%
+* [OSCP](/preperation/OffSec.md) - 42.1%
+  * Course - 61.3%
+  * Exercises - 63.3%
+  * Labs - 1/57 - 3.5%
     * OSCP A - 0/7
     * OSCP B - 0/7
     * OSCP C - 0/7
-    * Medtech - 1/10
+    * Medtech - 2/10
     * Relia - 0/0
     * Skylark - 0/0
 * [PNTP](/preperation/TCM.md) - 32% | 35.3%
