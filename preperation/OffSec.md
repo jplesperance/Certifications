@@ -88,7 +88,7 @@
 ### Week 4
 #### Pre-work
 * [X] OS AD Intro and Enum (21.1, 21.2)
-#### Day 10
+#### Day 10 <-- Current Class
 * Class
   * [ ] OS AD Intro and Enum (21.3, 21.4)
 * Homework
