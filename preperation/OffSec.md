@@ -87,20 +87,21 @@
   * [ ] Module 17 - Metapaul
 ### Week 4
 #### Pre-work
-* OS AD Intro and Enum (21.1, 21.2
+* [X] OS AD Intro and Enum (21.1, 21.2)
 #### Day 10
 * Class
-  * OS AD Intro and Enum (21.3, 21.4)
+  * [ ] OS AD Intro and Enum (21.3, 21.4)
 * Homework
-  * OS Attacking AD Auth (22.1)
+  * [ ] OS Attacking AD Auth (22.1)
 #### Day 11
 * Class
-  * OS Attacking AD Auth (22.2)
+  * [ ] OS Attacking AD Auth (22.2)
 #### Pre-work
-* OS Tunneling through deep packet (19.1, 19.2)
+* [ ] OS Tunneling through deep packet (19.1, 19.2)
 #### Day 12
 * Class
-  * OS Challenge: Medtech: Files02, Client02
+  * [X] OS Challenge: Medtech::Files02
+  * [ ] OS Challenge: Medtech::Client02
 * Homework
   * Module 22 - Active Directory Attacks
   * OS Lateral Movement in AD
