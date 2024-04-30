@@ -1,6 +1,6 @@
 # Evolve
 ## Course Schedule
-### Pre-Bootcamp
+### Pre-Bootcamp - Evolve Security Content
 * [X] Module 4 - Linux - Offsec 1
 * [X] Module 5 - Networking 
 * [X] Module 6 - Python
