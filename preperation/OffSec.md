@@ -103,24 +103,27 @@
   * [X] OS Challenge: Medtech::Files02
   * [ ] OS Challenge: Medtech::Client02
 * Homework
-  * Module 22 - Active Directory Attacks
-  * OS Lateral Movement in AD
+  * [ ] Module 22 - Active Directory Attacks
+  * [ ] OS Lateral Movement in AD
 ### Week 5
 --- Catchup ---
 ### Week 6
 #### Day 16
 * Class
-  * OS Challeng: OSCP A: Aero
+  * [ ] OS Challeng: OSCP A: Aero
 * Homework
-  * OS Challenge: OSCP A: Crystal
+  * [ ] OS Challenge: OSCP A: Crystal
 #### Day 17
 * Class
-  * OS Challenge: OSCP C: MS01, MS02
+  * [ ] OS Challenge: OSCP C: MS01
+  * [ ] OS Challenge: OSCP C: MS02
 #### Day 18
 * Class
   * OS Challenge: OSCP C: Cont
 * Homework
-  * OS Challenge: OSCP A: MS01, MS02, DC01
+  * [ ] OS Challenge: OSCP A: MS01
+  * [ ] OS Challenge: OSCP A: MS02
+  * [ ] OS Challenge: OSCP A: DC01
 ### Week 7
 #### Day 19
 * Class
@@ -129,7 +132,10 @@
   * OS Challenge: OSCP A: Hermes
 #### Day 20
 * Class
-  * OS Challenge: Medtech: client02, dev04, client01, dc01
+  * [ ] OS Challenge: Medtech: client02, dev04, client01, dc01
+  * [ ] OS Challenge: Medtech: dev04
+  * [ ] OS Challenge: Medtech: client01
+  * [ ] OS Challenge: Medtech: dc01
 * Homework
   * OS Challenge: OSCP B: Kiero
 #### Day 21
@@ -201,13 +207,6 @@
 * [ ] Shifty
 * [ ] Vector
 * [ ] Clyde
-
-## Labs
-* [ ] 2/5  Sandbox Machines Rooted
-* [ ] 14/30 Machines Rooted
-* [ ] 14/50 Machines Rooted
-* [ ] 14/75 Machines Rooted
-* [ ] 0/3  AD Domains Taken
 
 ## Certification
 * [ ] Offensive Securty Certified Professional
