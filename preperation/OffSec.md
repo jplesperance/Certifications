@@ -77,7 +77,7 @@
   * [ ] OS Port Redirection (18.2)
 #### Day 9
 * Class
-  * [ ] OS Port Redirection (18.3, 18.4)
+  * [ ] OS Port Redirection (18.3, 18.4) <-- Current Class Content
   * [ ] Module 16 - The Heist
 * Homework
   * [ ] OS Metasploit Framework (20.1-4)
@@ -88,12 +88,12 @@
 ### Week 4
 #### Pre-work
 * [X] OS AD Intro and Enum (21.1, 21.2)
-#### Day 10 <-- Current Class
+#### Day 10 
 * Class
-  * [ ] OS AD Intro and Enum (21.3, 21.4)
+  * [X] OS AD Intro and Enum (21.3, 21.4)
 * Homework
   * [ ] OS Attacking AD Auth (22.1)
-#### Day 11
+#### Day 11 <-- Current Class
 * Class
   * [ ] OS Attacking AD Auth (22.2)
 #### Pre-work
