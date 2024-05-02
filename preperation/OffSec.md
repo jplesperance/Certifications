@@ -92,7 +92,7 @@
 * Class
   * [X] OS AD Intro and Enum (21.3, 21.4)
 * Homework
-  * [ ] OS Attacking AD Auth (22.1)
+  * [X] OS Attacking AD Auth (22.1)
 #### Day 11 <-- Current Class
 * Class
   * [ ] OS Attacking AD Auth (22.2)
