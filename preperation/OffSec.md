@@ -74,13 +74,13 @@
   * [X] OS Linux PE (17.2, 17.3)
 * Homework
   * [ ] Evolve 16 - I am groot
-  * [ ] OS Port Redirection (18.2)
+  * [ ] **OS Port Redirection (18.2)**
 #### Day 9
 * Class
-  * [ ] OS Port Redirection (18.3, 18.4) <-- Current Class Content
+  * [ ] **OS Port Redirection (18.3, 18.4)**
   * [ ] Module 16 - The Heist
 * Homework
-  * [ ] OS Metasploit Framework (20.1-4)
+  * [ ] **OS Metasploit Framework (20.1-4)**
   * [ ] Module 16 - Ever Given
   * [ ] Module 16 - Challenge: Raven
   * [ ] Module 17 - Exploitation with Metasploit
@@ -93,19 +93,19 @@
   * [X] OS AD Intro and Enum (21.3, 21.4)
 * Homework
   * [X] OS Attacking AD Auth (22.1)
-#### Day 11 <-- Current Class
+#### Day 11 
 * Class
-  * [ ] OS Attacking AD Auth (22.2)
+  * [X] OS Attacking AD Auth (22.2)
 #### Pre-work
-* [ ] OS Tunneling through deep packet (19.1, 19.2)
+* [ ] **OS Tunneling through deep packet (19.1, 19.2)**
 #### Day 12
 * Class
   * [X] OS Challenge: Medtech::Files02
-  * [ ] OS Challenge: Medtech::Client02
+  * [ ] **OS Challenge: Medtech::Client02**
 * Homework
   * [ ] Module 22 - Active Directory Attacks
-  * [ ] OS Lateral Movement in AD
-### Week 5
+  * [ ] **OS Lateral Movement in AD**
+### Week 5 <-- Current Class
 --- Catchup ---
 ### Week 6
 #### Day 16
