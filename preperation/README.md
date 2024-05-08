@@ -9,8 +9,8 @@
 
 # Progress
 * [OSCP](/preperation/OffSec.md) - 47.5%
-  * Course - 67.6%
-  * Exercises - 71.4%
+  * Course - 71.8%
+  * Exercises - 75.1%
   * Labs - 2/57 - 3.5%
     * OSCP A - 0/7
     * OSCP B - 0/7
