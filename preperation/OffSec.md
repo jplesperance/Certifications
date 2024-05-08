@@ -80,7 +80,7 @@
   * [ ] **OS Port Redirection (18.3, 18.4)**
   * [ ] Module 16 - The Heist
 * Homework
-  * [ ] **OS Metasploit Framework (20.1-4)**
+  * [X] **OS Metasploit Framework (20.1-4)**
   * [ ] Module 16 - Ever Given
   * [ ] Module 16 - Challenge: Raven
   * [ ] Module 17 - Exploitation with Metasploit
@@ -101,7 +101,7 @@
 #### Day 12
 * Class
   * [X] OS Challenge: Medtech::Files02
-  * [ ] **OS Challenge: Medtech::Client02**
+  * [X] **OS Challenge: Medtech::Client02**
 * Homework
   * [ ] Module 22 - Active Directory Attacks
   * [ ] **OS Lateral Movement in AD**
@@ -132,7 +132,6 @@
   * OS Challenge: OSCP A: Hermes
 #### Day 20
 * Class
-  * [ ] OS Challenge: Medtech: client02, dev04, client01, dc01
   * [ ] OS Challenge: Medtech: dev04
   * [ ] OS Challenge: Medtech: client01
   * [ ] OS Challenge: Medtech: dc01
