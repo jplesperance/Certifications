@@ -104,7 +104,7 @@
   * [X] **OS Challenge: Medtech::Client02**
 * Homework
   * [ ] Module 22 - Active Directory Attacks
-  * [ ] **OS Lateral Movement in AD**
+  * [X] **OS Lateral Movement in AD**
 ### Week 5 <-- Current Class
 --- Catchup ---
 ### Week 6
