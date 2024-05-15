@@ -133,7 +133,7 @@
 #### Day 20
 * Class
   * [ ] OS Challenge: Medtech: dev04
-  * [ ] OS Challenge: Medtech: client01
+  * [X] OS Challenge: Medtech: client01
   * [ ] OS Challenge: Medtech: dc01
 * Homework
   * OS Challenge: OSCP B: Kiero
