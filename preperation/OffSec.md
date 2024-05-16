@@ -110,16 +110,16 @@
 ### Week 6
 #### Day 16
 * Class
-  * [ ] OS Challeng: OSCP A: Aero
+  * [X] OS Challeng: OSCP A: Aero
 * Homework
   * [ ] OS Challenge: OSCP A: Crystal
 #### Day 17
 * Class
-  * [ ] OS Challenge: OSCP C: MS01
-  * [ ] OS Challenge: OSCP C: MS02
+  * [X] OS Challenge: OSCP C: MS01
+  * [X] OS Challenge: OSCP C: MS02
 #### Day 18
 * Class
-  * OS Challenge: OSCP C: Cont
+  * [X] OS Challenge: OSCP C: DC01
 * Homework
   * [ ] OS Challenge: OSCP A: MS01
   * [ ] OS Challenge: OSCP A: MS02
