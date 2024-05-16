@@ -11,10 +11,10 @@
 * [OSCP](/preperation/OffSec.md) - 47.5%
   * Course - 77.4%
   * Exercises - 79.8%
-  * Labs - 4/57 - 7%
-    * OSCP A - 0/7
+  * Labs - 6/57 - 10.5%
+    * OSCP A - 2/7
     * OSCP B - 0/7
-    * OSCP C - 0/7
+    * OSCP C - 1/7
     * Medtech - 4/10
     * Relia - 0/0
     * Skylark - 0/0
