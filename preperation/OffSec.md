@@ -112,7 +112,7 @@
 * Class
   * [X] OS Challeng: OSCP A: Aero
 * Homework
-  * [ ] OS Challenge: OSCP A: Crystal
+  * [X] OS Challenge: OSCP A: Crystal
 #### Day 17
 * Class
   * [X] OS Challenge: OSCP C: MS01
