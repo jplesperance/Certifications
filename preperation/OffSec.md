@@ -121,22 +121,22 @@
 * Class
   * [X] OS Challenge: OSCP C: DC01
 * Homework
-  * [ ] OS Challenge: OSCP A: MS01
-  * [ ] OS Challenge: OSCP A: MS02
-  * [ ] OS Challenge: OSCP A: DC01
+  * [X] OS Challenge: OSCP A: MS01
+  * [X] OS Challenge: OSCP A: MS02
+  * [X] OS Challenge: OSCP A: DC01
 ### Week 7
 #### Day 19
 * Class
-  * OS Challenge: OSCP C: Pascha
+  * [ ] OS Challenge: OSCP C: Pascha
 * Homework
-  * OS Challenge: OSCP A: Hermes
+  * [X] OS Challenge: OSCP A: Hermes
 #### Day 20
 * Class
   * [ ] OS Challenge: Medtech: dev04
   * [X] OS Challenge: Medtech: client01
   * [ ] OS Challenge: Medtech: dc01
 * Homework
-  * OS Challenge: OSCP B: Kiero
+  * [ ] OS Challenge: OSCP B: Kiero
 #### Day 21
 * Class
   * OS Challenge: Medtech contd
