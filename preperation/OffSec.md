@@ -105,7 +105,7 @@
 * Homework
   * [ ] Module 22 - Active Directory Attacks
   * [X] **OS Lateral Movement in AD**
-### Week 5 <-- Current Class
+### Week 5
 --- Catchup ---
 ### Week 6
 #### Day 16
@@ -127,10 +127,10 @@
 ### Week 7
 #### Day 19
 * Class
-  * [ ] OS Challenge: OSCP C: Pascha
+  * [X] OS Challenge: OSCP C: Pascha
 * Homework
   * [X] OS Challenge: OSCP A: Hermes
-#### Day 20
+#### Day 20 <-- Current Class
 * Class
   * [ ] OS Challenge: Medtech: dev04
   * [X] OS Challenge: Medtech: client01
