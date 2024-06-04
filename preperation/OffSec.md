@@ -136,12 +136,12 @@
   * [X] OS Challenge: Medtech: client01
   * [ ] OS Challenge: Medtech: dc01
 * Homework
-  * [ ] OS Challenge: OSCP B: Kiero
+  * [X] OS Challenge: OSCP B: Kiero
 #### Day 21
 * Class
-  * OS Challenge: Medtech contd
+  * [ ] OS Challenge: Medtech contd
 * Homework
-  * OS Challenge Lab: Medtech: prod01, web01, vpn, ntp
+  * [ ] OS Challenge Lab: Medtech: prod01, web01, vpn, ntp
 ### Week 8
 #### Day 22
 * Class
