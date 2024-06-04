@@ -11,14 +11,14 @@
 * [OSCP](/preperation/OffSec.md) - 58.7%
   * Course - 77.4%
   * Exercises - 79.8%
-  * Labs - 11/57 - 19.3%
+  * Labs - 13/57 - 22.8%
     * OSCP A - 4/4
-    * OSCP B - 0/4
+    * OSCP B - 2/4
     * OSCP C - 3/4
     * Medtech - 4/10
     * Relia - 0/0
     * Skylark - 0/0
-  * Bonus Points - 11/30
+  * Bonus Points - 13/30
 * [PNTP](/preperation/TCM.md) - 32% | 35.3%
   * PEH Course - 52%
   * OSINT Course - 0%
