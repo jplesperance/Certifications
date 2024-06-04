@@ -130,7 +130,7 @@
   * [X] OS Challenge: OSCP C: Pascha
 * Homework
   * [X] OS Challenge: OSCP A: Hermes
-#### Day 20 <-- Current Class
+#### Day 20 
 * Class
   * [ ] OS Challenge: Medtech: dev04
   * [X] OS Challenge: Medtech: client01
@@ -156,6 +156,8 @@
 #### Day 24
 * Class
   * OS challenge: Relia: Contd
+### Post Bootcamp
+* [X] OS Challenge: OSCP B: DC01
  
 ## Course
 ### Module 13
