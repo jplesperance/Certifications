@@ -147,7 +147,7 @@
 * Class
   * OS Challenge: Relia
 * Homework
-  * [ ] OS Challenge: OSCP B: Gust
+  * [X] OS Challenge: OSCP B: Gust
 #### Day 23 
 * Class
   * OS Challenge: Relia: Contd
