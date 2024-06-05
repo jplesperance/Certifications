@@ -147,12 +147,12 @@
 * Class
   * OS Challenge: Relia
 * Homework
-  * OS Challenge: OSCP B: Gust
+  * [ ] OS Challenge: OSCP B: Gust
 #### Day 23 
 * Class
   * OS Challenge: Relia: Contd
 * Homework
-  * OS Challenge: OSCP B: Berlin
+  * [X] OS Challenge: OSCP B: Berlin
 #### Day 24
 * Class
   * OS challenge: Relia: Contd
