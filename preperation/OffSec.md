@@ -141,7 +141,10 @@
 * Class
   * [ ] OS Challenge: Medtech contd
 * Homework
-  * [ ] OS Challenge Lab: Medtech: prod01, web01, vpn, ntp
+  * [ ] OS Challenge: Medtech: prod01
+  * [ ] OS Challenge: Medtech: Web01
+  * [ ] OS Challenge: Medtech: vpn
+  * [ ] OS Challenge: Medtech: ntp
 ### Week 8
 #### Day 22
 * Class
@@ -158,6 +161,7 @@
   * OS challenge: Relia: Contd
 ### Post Bootcamp
 * [X] OS Challenge: OSCP B: DC01
+* [X] OS Challenge: OSCP C: Frankfurt
  
 ## Course
 ### Module 13
