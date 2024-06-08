@@ -7,7 +7,7 @@
 ### Warm Up
 * [ ] [Pebbles](/walkthroughs/pg/pebbles/)
 * [ ] [Helpdesk](/walkthroughs/pg/helpdesk)
-* [ ] [Internal](/walkthroughs/pg/internal)
+* [X] [Internal](/walkthroughs/pg/internal)
 * [ ] [Twiggy](/walkthroughs/pg/twiggy/)
 * [ ] [Metallus](/walkthroughs/pg/metallus/)
 * [ ] [Kevin](/walkthroughs/pg/kevin/)
