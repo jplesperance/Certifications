@@ -13,7 +13,8 @@ IP: 192.168.235.40
 ## Recon
 I started with a full namp scan, which revealed SMB, RDP and something on port 5357.
 
-![](/screenshots/nmap.png "full nmap scan")
+![](/screenshots/nmap-command.png "full nmap scan command")
+![](/screenshots/nmap-full.png "full nmap scan output")
 
 Additionally, the scan showed the box is running an old version of windows (2008).  Making it likely that an SMB-based vulnerability may exist.
 
