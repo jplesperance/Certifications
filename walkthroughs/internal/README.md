@@ -19,5 +19,5 @@ I started with a full namp scan, which revealed SMB, RDP and something on port 5
 Additionally, the scan showed the box is running an old version of windows (2008).  Making it likely that an SMB-based vulnerability may exist.
 
 I next ran an nmap scan with all the smb vulnerability scripts, revealing a potential hit for CVE-2009-3103
-![](screenshots/sbm-vuln.png "nmap smb vuln scan")
-![](screenshots/smb-result.png "smb vuln scan finding")
+![](screenshots/sbm-vuln-scan.png "nmap smb vuln scan")
+![](screenshots/smb-vuln-result.png "smb vuln scan finding")
