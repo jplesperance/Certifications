@@ -132,17 +132,16 @@
   * [X] OS Challenge: OSCP A: Hermes
 #### Day 20 
 * Class
-  * [ ] OS Challenge: Medtech: dev04
+  * [X] OS Challenge: Medtech: dev04
   * [X] OS Challenge: Medtech: client01
-  * [ ] OS Challenge: Medtech: dc01
+  * [X] OS Challenge: Medtech: dc01
 * Homework
   * [X] OS Challenge: OSCP B: Kiero
 #### Day 21
 * Class
-  * [ ] OS Challenge: Medtech contd
 * Homework
-  * [ ] OS Challenge: Medtech: prod01
-  * [ ] OS Challenge: Medtech: Web01
+  * [X] OS Challenge: Medtech: prod01
+  * [X] OS Challenge: Medtech: Web01
   * [ ] OS Challenge: Medtech: vpn
   * [ ] OS Challenge: Medtech: ntp
 ### Week 8
