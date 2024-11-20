@@ -9,31 +9,47 @@
 * [X] Introduction to Python
 * [X] Ethical Hacker Methodology
 * [X] Information Gathering
-* [X] Scanning and Enumeration
-* [X] Vulnerability Scanning
-* [X] Exploitation Basics
-* [X] Capstone
-  * [X] Legacy
-  * [X] Lame
-  * [X] Blue
-  * [X] Devel
-  * [X] Jerry
-  * [X] Nibbles
-  * [X] Optimum
-  * [X] Bashed
-  * [X] Grandpa
-  * [X] Netmon
-* [X] Intro to Exploit Development (Buffer Overflow)
-* [X] Active Directory Overview0
-* [X] Active Directory Lab Build
-* [ ] Attacking AD: Initial Attack Vectors
-* [ ] Attacking AD: Post-Compromise Enumeration
-* [ ] Attacking AD: Post-Compromise Attacks
+* [ ] Scanning and Enumeration (92 Min) 11/20 & 11/21
+  * [ ] Installing Kioptrix
+  * [ ] Scanning with Nmap
+  * [ ] Enumerating HTTP and HTTPS 1
+  * [ ] Enumerating HTTP and HTTPS 2
+  * [ ] Enumerating SMB
+  * [ ] Enumerating SSH
+  * [ ] Researching Possible Vulnerabilities
+  * [ ] Our Notes
+  * [ ] Quiz
+* [ ] Vulnerability Scanning (17 Min) 11/22
+  * [ ] Scanning With Nessus Part 1
+  * [ ] Scanning With Nessus Part 2
+  * [ ] Quiz 
+* [ ] Exploitation Basics (56 Min) 11/23
+  * [ ] Reverse Shells vs Bind Shells
+  * [ ] Staged vs Non-Staged Payloads
+  * [ ] Gaining Root with Metasploit
+  * [ ] Manual Exploitation
+  * [ ] Brute Force Attacks
+  * [ ] Credential Stuffing
+  * [ ] Our Notes
+  * [ ] Quiz 
+* [ ] Capstone
+  * [ ] Blue 
+  * [ ] Academy
+  * [ ] Dev
+  * [ ] Butler
+  * [ ] Blackpearl
+* [ ] Active Directory Overview (16 Min)
+* [ ] Active Directory Lab Build (66 Min)
+* [ ] Attacking AD: Initial Attack Vectors (87 Min)
+* [ ] Attacking AD: Post-Compromise Enumeration (32 Min)
+* [ ] Attacking AD: Post-Compromise Attacks (87 Min)
+* [ ] Compromized Domain Controller (24 Min)
 * [ ] Additional Active Directory Attacks
+* [ ] Active Directory Case Studies
 * [ ] Post Exploitation
 * [ ] Web Application Enumeration
 * [ ] Testing Top 10 Web App Vulns
-* [X] Wireless Pen Testing
+* [ ] Wireless Pen Testing
 * [ ] Legal Docs and Report Writing
 
 ## Windows Privilege Escalation
