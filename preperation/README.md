@@ -1,31 +1,18 @@
 # Preperation
-
-* [X] eJPT (eLearnSecurity Junior Penetration Tester)
 * [ ] JNPT (TCM Junior Network Penetration Tester)
 * [ ] PNPT (TCM Professional Network Penetration Tester)
+* [ ] JWPT (TCM Juntion Web Penetration Tester)
+* [ ] PWPT (TCM Professional Web Penetration Tester)
 * [ ] CPTS (HTB Certified Penetration Testing Specialist)
-* [X] OSWP (Offensive Security Wireless Professional) 
-* [ ] OSCP (Offensive Security Certified Professional)
 
 # Progress
-* [OSCP](/preperation/OffSec.md) - 64.1%
-  * Course - 77.4%
-  * Exercises - 79.8%
-  * Labs - 20/57 - 35.1%
-    * OSCP A - 4/4
-    * OSCP B - 4/4
-    * OSCP C - 4/4
-    * Medtech - 8/10
-    * Relia - 0/0
-    * Skylark - 0/0
-  * Bonus Points - 20/30 - 66.7%
-* [PNTP](/preperation/TCM.md) - 32% | 35.3%
-  * PEH Course - 52%
+* [JNTP](/prperation/TCM.md) - 33%
+* [PNTP](/preperation/TCM.md) - 6%
+  * PEH Course - 33%
   * OSINT Course - 0%
-  * EPP Course - 40% | 70%
+  * EPP Course - 0%
   * WPE Course - 0%
   * LPE Course - 0%
-  * PEH Capstone - 100%
 * [CPTS](/preperation/HTB.md) - 24%
   * Course - 36%
   * HTB Macines - 15/50 - 30%
