@@ -11,7 +11,7 @@
 * [Preperation](/preperation/)
   * [HackTheBox Academy](/preperation/htbacademy/)
   * [HackTheBox](/preperation/htb/)
-  * [TheCyberMentor](/preperation/tcm.md)
+  * [TheCyberMentor](/preperation/TCM.md)
   * [TryHackMe](/preperation/thm/)
 * [Cheat-Sheets](/cheatsheets/)
   * [OSCP Cheat-Sheet](/cheatsheets/README.md)
