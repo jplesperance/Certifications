@@ -16,7 +16,7 @@
 - [X] File Inclusion
 - [X] Intro to SSRF
 - [X] Intro to Cross-site Scripting - 11-20-2024
-- [X] Command Injection
+- [X] Command Injection - 11-21-2024
 - [ ] SQL Injection
 ### Burp Suite
 ### Network Security
