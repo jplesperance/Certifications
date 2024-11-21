@@ -1,10 +1,11 @@
-# TryHackMe - Offensive Pentesting Learning Path
-## Getting Started
+# TryHackMe
+## Jr Penetration Tester
+## Offensive Pentesting
+### Getting Started
 * [X] Vulnversity
 * [X] Blue
 * [X] Kenobi 
-
-## Advanced Exploitation
+### Advanced Exploitation
 * [X] Steel Mountain 
 * [X] Alfred
 * [X] HackPark 
@@ -14,8 +15,7 @@
 * [X] Overpass 2 - Hacked 
 * [X] Relevant 
 * [X] Internal 
-
-## Buffer Overflow Exploitation
+### Buffer Overflow Exploitation
 * [X] Buffer Overflow Prep 
   * [ ] Task 1  
   * [ ] Task 2  
@@ -30,8 +30,7 @@
 * [ ] Brainstorm 
 * [ ] Gatekeeper 
 * [ ] Brainpan 1 
-
-## Active Directory
+### Active Directory
 * [ ] Active Directory Basics 
 * [ ] Attacking Kerberos
 * [ ] Attacktive Directory
@@ -39,9 +38,9 @@
 * [ ] Throwback
 * [ ] Holo
 * [ ] Wreath
-
-## Extra Credit
+### Extra Credit
 * [ ] Hacking with PowerShell 
 * [ ] Corp
 * [ ] Mr. Robot CTF 
 * [ ] Retro
+## Web Application Pentesting
