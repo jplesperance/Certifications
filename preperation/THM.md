@@ -17,8 +17,13 @@
 - [X] Intro to SSRF
 - [X] Intro to Cross-site Scripting - 11-20-2024
 - [X] Command Injection - 11-21-2024
-- [ ] SQL Injection
+- [X] SQL Injection
 ### Burp Suite
+- [ ] Basics
+- [ ] Repeater
+- [ ] Intruder
+- [ ] Other Modules
+- [ ] Extensions
 ### Network Security
 ### Vulnerability Research
 ### Metasploit
