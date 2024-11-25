@@ -19,7 +19,7 @@
 - [X] Command Injection - 11-21-2024
 - [X] SQL Injection - 11-22-2024
 ### Burp Suite
-- [ ] Basics
+- [X] Basics - 11-24-2024
 - [ ] Repeater
 - [ ] Intruder
 - [ ] Other Modules
