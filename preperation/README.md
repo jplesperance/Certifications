@@ -18,7 +18,7 @@
   * HTB Macines - 15/50 - 30%
   * Dante - 4/27 - 15%
 * [TryHackMe](/preperation/THM.md)
-  * [Jr Penetration Tester](/preperation/thm/jpt.md) - 42%
+  * [Jr Penetration Tester](/preperation/thm/jpt.md) - 47%
   * Offensive Pentetration Testing Path - 40%
   * Web Application Pentesting
   * CompTIA Pentest+ - 22%
