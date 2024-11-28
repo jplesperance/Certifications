@@ -25,7 +25,7 @@
 - [X] Other Modules 11-27-2024
 - [X] Extensions 11-27-2024
 ### Network Security
-- [ ] Passive R?econ
+- [X] Passive Recon 11-28-2024
 - [ ] Active Recon
 - [ ] NMAP Live Host Discovery
 - [ ] NMAP Basic Port Scans
