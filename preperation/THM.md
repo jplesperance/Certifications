@@ -22,8 +22,8 @@
 - [X] Basics - 11-24-2024
 - [X] Repeater - 11-26-2024
 - [X] Intruder - 11-27-2024
-- [X] Other Modules
-- [ ] Extensions
+- [X] Other Modules 11-27-2024
+- [X] Extensions 11-27-2024
 ### Network Security
 ### Vulnerability Research
 ### Metasploit
