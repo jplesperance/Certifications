@@ -25,6 +25,15 @@
 - [X] Other Modules 11-27-2024
 - [X] Extensions 11-27-2024
 ### Network Security
+- [ ] Passive R?econ
+- [ ] Active Recon
+- [ ] NMAP Live Host Discovery
+- [ ] NMAP Basic Port Scans
+- [ ] NMAP Advanced Port Scans
+- [ ] NMAP Post Port Scans
+- [ ] Protocols and Servers
+- [ ] Protocols and Servers 2
+- [ ] Net Sec Challenge
 ### Vulnerability Research
 ### Metasploit
 ### Privilege Escalation
