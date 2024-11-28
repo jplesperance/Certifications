@@ -20,9 +20,9 @@
 - [X] SQL Injection - 11-22-2024
 ### Burp Suite
 - [X] Basics - 11-24-2024
-- [ ] Repeater
-- [ ] Intruder
-- [ ] Other Modules
+- [X] Repeater - 11-26-2024
+- [X] Intruder - 11-27-2024
+- [X] Other Modules
 - [ ] Extensions
 ### Network Security
 ### Vulnerability Research
